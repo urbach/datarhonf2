@@ -1,6 +1,6 @@
 Lattice data for pipi channel
 =============================
-ETMC collaboration (Fischer,Kostrzewa,Petschlies,Pittler,Ueding,Urbach,Werner) & Maxim Mai<br>
+ETMC (Fischer,Kostrzewa,Petschlies,Pittler,Ueding,Urbach,Werner) & Maxim Mai<br>
 ----------------------------
 
 ***Organization***:<br>
