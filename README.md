@@ -4,7 +4,7 @@ ETMC collaboration (Fischer,Kostrzewa,Petschlies,Pittler,Ueding,Urbach,Werner) &
 
 Organization:
 
-**General**:
+**General**:<br>
 -- "aa.aa" = denoted the lattice ensemble, details in the article.
 -- "AX" = denoted the method used for the extraction of energy eigenvalues. See article for details on each method.
 
