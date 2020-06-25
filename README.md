@@ -3,6 +3,9 @@ Lattice data for pipi channel
 ETMC (Fischer,Kostrzewa,Petschlies,Pittler,Ueding,Urbach,Werner) & Maxim Mai<br>
 ----------------------------
 
+The data is publicly available and free to use. 
+Please cite [https://arxiv.org/abs/1507.05068](1507.05068) and [https://arxiv.org/abs/2006.13805](arXiv:2006.13805) if you are using this data for a publication. 
+
 ***Organization***:<br>
 - "**aa.aa**" = denoted the lattice ensemble, details in the article.
 - "**AX**" = denoted the method used for the extraction of energy eigenvalues. See article for details on each method.<br>
